@@ -1,1 +1,12 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Bitter', serif;
+}
+
+.img{
+    background-image: url("public/baground/Group.png");
+    background-size: cover;
+    /* background-position: ; */
+}
